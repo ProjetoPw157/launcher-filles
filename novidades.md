@@ -6,7 +6,4 @@
 - Nova aba de novidades puxando changelog do repositorio.
 - Background do launcher atualizado.
 
-## Como editar
-- Edite este arquivo `novidades.md`.
-- Salve, faça commit e push no GitHub.
-- O launcher vai mostrar o texto novo automaticamente.
+## Nto Pw
