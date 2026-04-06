@@ -4,13 +4,13 @@
       "path": "data/background.png",
       "sha256": "b88be2b5becaabb1b71e6f693d5b59b89856ef02ecc742ae28ed9d9f7c2667b8",
       "size": 2277906,
-      "url": "https://raw.githubusercontent.com/ProjetoPw157/launcher-filles/main/data/background.png"
+      "url": "https://raw.githubusercontent.com/ProjetoPw157/launcher-filles/main/data-launcher/background.png"
     },
     {
       "path": "data/icon.ico",
       "sha256": "e6f3017c611584e8b7c7cf91c40cec7bd06ea3ca347f633d521af1304f7a0191",
       "size": 1150,
-      "url": "https://raw.githubusercontent.com/ProjetoPw157/launcher-filles/main/data/icon.ico"
+      "url": "https://raw.githubusercontent.com/ProjetoPw157/launcher-filles/main/data-launcher/icon.ico"
     }
   ],
   "version": "1.0.2"
