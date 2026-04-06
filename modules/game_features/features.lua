@@ -9,7 +9,6 @@ controller:registerEvents(g_game, {
         -- g_game.enableFeature(GameAllowCustomBotScripts)
 
         g_game.enableFeature(GameFormatCreatureName)
-		
 		g_game.enableFeature(GameWingsAurasEffectsShader)
 		g_game.enableFeature(GameCreatureShader)
 		g_game.enableFeature(GameCreatureAttachedEffect)
