@@ -2,16 +2,16 @@
     "version":  "1.0.2",
     "files":  [
                   {
-                      "url":  "https://raw.githubusercontent.com/ProjetoPw157/launcher-filles/main/data-launcher/background.png",
-                      "path":  "data/background.png",
-                      "sha256":  "f36ecef55536074d68415e0efa7cf24df4721012c408c8fe1328d5cdb5644a87",
-                      "size":  380710
+      "url":  "https://raw.githubusercontent.com/ProjetoPw157/launcher-filles/main/data-launcher/background.jpg",
+      "path":  "data/background.jpg",
+                      "sha256":  "45e2d4a436f4c563d2d37530c12bbb740a6a9ded2d646263cd32c08012da3cab",
+                      "size":  274933
                   },
                   {
                       "url":  "https://raw.githubusercontent.com/ProjetoPw157/launcher-filles/main/data-launcher/icon.ico",
                       "path":  "data/icon.ico",
-                      "sha256":  "e6f3017c611584e8b7c7cf91c40cec7bd06ea3ca347f633d521af1304f7a0191",
-                      "size":  1150
+                      "sha256":  "14ac9c015bf286df5b64c6a738e5238f87c13c1f4bbbf20be18ffb16c864992d",
+                      "size":  22759
                   }
               ]
 }
