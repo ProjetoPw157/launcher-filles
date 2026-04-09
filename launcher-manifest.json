@@ -1,5 +1,5 @@
 ﻿{
-    "version":  "1.0.3",
+    "version":  "1.0.2",
     "files":  [
                   {
       "url":  "https://raw.githubusercontent.com/ProjetoPw157/launcher-filles/main/data-launcher/background.jpg",
@@ -10,8 +10,8 @@
                   {
                       "url":  "https://raw.githubusercontent.com/ProjetoPw157/launcher-filles/main/data-launcher/icon.ico",
                       "path":  "data/icon.ico",
-                      "sha256":  "14ac9c015bf286df5b64c6a738e5238f87c13c1f4bbbf20be18ffb16c864992d",
-                      "size":  22759
+                      "sha256":  "e969df1996de3c2dfcd0c58709b8249256ae280631df67e606c72dfd7628d6f7",
+                      "size":  62542
                   }
               ]
 }
